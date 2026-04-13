@@ -1,0 +1,22 @@
+# Vivado auto-generated files and folders (do not commit these)
+*.jou
+*.log
+*.pb
+*.wdb
+*.wcfg
+*.str
+*.zip
+*.bit
+*.bin
+*.hdf
+*.xsa
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# OS generated files
+.DS_Store
+Thumbs.db

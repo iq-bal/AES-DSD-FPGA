@@ -1,0 +1,2514 @@
+Vivado Commands
+General Messages
+[Board 49-26] cannot add Board Part xilinx.com:kc705:part0:1.6 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/kc705/1.6/board.xml as part xc7k325tffg900-2 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:kcu105:part0:1.6 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/kcu105/1.6/board.xml as part xcku040-ffva1156-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:kcu105:part0:1.7 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/kcu105/1.7/board.xml as part xcku040-ffva1156-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:kcu116:part0:1.4 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/kcu116/1.4/board.xml as part xcku5p-ffvb676-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:kcu116:part0:1.5 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/kcu116/1.5/board.xml as part xcku5p-ffvb676-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:kcu1500:part0:1.2 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/kcu1500/1.2/board.xml as part xcku115-flvb2104-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:sp701:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/sp701/1.0/board.xml as part xc7s100fgga676-2 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:sp701:part0:1.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/sp701/1.1/board.xml as part xc7s100fgga676-2 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vc707:part0:1.4 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vc707/1.4/board.xml as part xc7vx485tffg1761-2 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vc709:part0:1.8 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vc709/1.8/board.xml as part xc7vx690tffg1761-2 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.2 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vck190/production/2.2/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vck190:part0:3.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vck190/production/3.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vck190:part0:3.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vck190/production/3.1/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vck190:part0:3.2 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vck190/production/3.2/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vck190_newl:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vck190_newl/production/1.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vck190_newl:part0:1.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vck190_newl/production/1.1/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vcu108:part0:1.6 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vcu108/1.6/board.xml as part xcvu095-ffva2104-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vcu108:part0:1.7 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vcu108/1.7/board.xml as part xcvu095-ffva2104-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vcu110:part0:1.4 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vcu110/1.4/board.xml as part xcvu190-flgc2104-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vcu118:part0:2.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vcu118/2.0/board.xml as part xcvu9p-flga2104-2l-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vcu118:part0:2.3 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vcu118/2.3/board.xml as part xcvu9p-flga2104-2l-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vcu118:part0:2.4 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vcu118/2.4/board.xml as part xcvu9p-flga2104-2l-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vcu128:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vcu128/production/1.0/board.xml as part xcvu37p-fsvh2892-2l-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vcu129:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vcu129/production/1.0/board.xml as part xcvu29p-fsga2577-2l-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vcu1525:part0:1.3 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vcu1525/1.3/board.xml as part xcvu9p-fsgd2104-2l-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vek280_es:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vek280/es/rev_a/1.0/board.xml as part xcve2802-vsvh1760-2lp-e-s-es1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vek280_es:part0:1.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vek280/es/rev_a/1.1/board.xml as part xcve2802-vsvh1760-2lp-e-s-es1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vek280_es_revb:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vek280/es/rev_b/1.0/board.xml as part xcve2802-vsvh1760-2mp-e-s-es1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vek280_es_revb:part0:1.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vek280/es/rev_b/1.1/board.xml as part xcve2802-vsvh1760-2mp-e-s-es1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vermeo_t1_mpsoc:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vermeo_t1_mpsoc/1.0/board.xml as part xczu19eg-ffvd1760-2l-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vermeo_t1_rfsoc:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vermeo_t1_rfsoc/1.0/board.xml as part xczu21dr-ffvd1156-2l-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vhk158:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vhk158/production/1.0/board.xml as part xcvh1582-vsva3697-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vhk158_es:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vhk158/es/1.0/board.xml as part xcvh1582-vsva3697-2mp-e-s-es1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vhk158_es:part0:1.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vhk158/es/1.1/board.xml as part xcvh1582-vsva3697-2mp-e-s-es1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.2 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vmk180/production/2.2/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:3.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vmk180/production/3.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:3.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vmk180/production/3.1/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:3.2 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vmk180/production/3.2/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vmk180_newl:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vmk180_newl/production/1.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vmk180_newl:part0:1.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vmk180_newl/production/1.1/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vpk120:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk120/production/1.0/board.xml as part xcvp1202-vsva2785-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vpk120:part0:1.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk120/production/1.1/board.xml as part xcvp1202-vsva2785-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vpk120_es:part0:1.2 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk120/es/1.2/board.xml as part xcvp1202-vsva2785-2mp-e-s-es1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vpk120_es:part0:1.3 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk120/es/1.3/board.xml as part xcvp1202-vsva2785-2mp-e-s-es1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vpk120_es_revb:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk120_revb/es/1.0/board.xml as part xcvp1202-vsva2785-2mp-e-s-es1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vpk120_es_revb:part0:1.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk120_revb/es/1.1/board.xml as part xcvp1202-vsva2785-2mp-e-s-es1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vpk180:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk180/production/1.0/board.xml as part xcvp1802-lsvc4072-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vpk180:part0:1.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk180/production/1.1/board.xml as part xcvp1802-lsvc4072-2mp-e-s specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vpk180_es:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk180/es/1.0/board.xml as part xcvp1802-lsvc4072-2mp-e-s-es1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:vpk180_es:part0:1.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk180/es/1.1/board.xml as part xcvp1802-lsvc4072-2mp-e-s-es1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zc702:part0:1.4 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zc702/1.4/board.xml as part xc7z020clg484-1 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zc706:part0:1.4 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zc706/1.4/board.xml as part xc7z045ffg900-2 specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu102:part0:3.3 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu102/3.3/board.xml as part xczu9eg-ffvb1156-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu102:part0:3.4 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu102/3.4/board.xml as part xczu9eg-ffvb1156-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu104:part0:1.1 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu104/1.1/board.xml as part xczu7ev-ffvc1156-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu106:part0:2.4 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu106/2.4/board.xml as part xczu7ev-ffvc1156-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu106:part0:2.5 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu106/2.5/board.xml as part xczu7ev-ffvc1156-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu106:part0:2.6 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu106/2.6/board.xml as part xczu7ev-ffvc1156-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu111:part0:1.2 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu111/1.2/board.xml as part xczu28dr-ffvg1517-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu111:part0:1.3 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu111/1.3/board.xml as part xczu28dr-ffvg1517-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu111:part0:1.4 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu111/1.4/board.xml as part xczu28dr-ffvg1517-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu1275:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu1275/1.0/board.xml as part xczu29dr-ffvf1760-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu1285:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu1285/1.0/board.xml as part xczu39dr-ffvf1760-2-i specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu208:part0:2.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu208/production/2.0/board.xml as part xczu48dr-fsvg1517-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu208ld:part0:2.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu208ld/production/2.0/board.xml as part xczu58dr-fsvg1517-2-i specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu216:part0:2.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu216/production/2.0/board.xml as part xczu49dr-ffvf1760-2-e specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu216ld:part0:2.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu216ld/production/2.0/board.xml as part xczu59dr-ffvf1760-2-i specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu670:part0:2.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu670/2.0/board.xml as part xczu67dr-fsve1156-2-i specified in board_part file is either invalid or not available
+
+[Board 49-26] cannot add Board Part xilinx.com:zcu670ld:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu670ld/1.0/board.xml as part xczu57dr-fsve1156-2-i specified in board_part file is either invalid or not available
+
+[filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.gen/sources_1'.
+
+ Scanning sources...
+
+ Finished scanning sources
+
+ Command: launch_simulation 
+
+ "xvlog --incr --relax -prj aes_tb_vlog.prj"
+ECHO is off.
+ECHO is off.
+
+ "xelab --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot aes_tb_behav xil_defaultlib.aes_tb xil_defaultlib.glbl -log elaborate.log"
+ECHO is off.
+ECHO is off.
+
+ Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot aes_tb_behav xil_defaultlib.aes_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
+
+    with args "aes_tb_behav -key {Behavioral:sim_1:Functional:aes_tb} -tclbatch {aes_tb.tcl} -log {simulate.log}"
+
+ Command: synth_design -top uart_aes_top -part xc7a35ticpg236-1L -lint
+
+ Starting synth_design
+
+ Attempting to get a license for feature 'Synthesis' and/or device 'xc7a35ti'
+
+ [Mon Apr 13 23:13:19 2026] Launched impl_1...
+
+ Run output will be captured here: C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.runs/impl_1/runme.log
+
+[IP_Flow 19-234] Refreshing IP repositories
+
+[IP_Flow 19-1704] No user IP repositories specified
+
+[IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2023.1/data/ip'.
+
+[Vivado 12-12493] Simulation top is 'aes_tb'
+
+[Vivado 12-13340] Unable to auto find GCC executables from simulator install path! (path not set)
+
+[Vivado 12-5682] Launching behavioral simulation in 'C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.sim/sim_1/behav/xsim'
+
+[SIM-utils-51] Simulation object is 'sim_1'
+
+[SIM-utils-72] Using boost library from 'C:/Xilinx/Vivado/2023.1/tps/boost_1_72_0'
+
+[SIM-utils-54] Inspecting design source files for 'aes_tb' in fileset 'sim_1'...
+
+[USF-XSim-2] XSim::Compile design
+
+[USF-XSim-3] XSim::Elaborate design
+
+[USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.sim/sim_1/behav/xsim'
+
+[USF-XSim-61] Executing 'ELABORATE' step in 'C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.sim/sim_1/behav/xsim'
+
+[USF-XSim-61] Executing 'SIMULATE' step in 'C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.sim/sim_1/behav/xsim'
+
+[USF-XSim-69] 'compile' step finished in '1' seconds
+
+[USF-XSim-69] 'elaborate' step finished in '1' seconds
+
+[USF-XSim-4] XSim::Simulate design
+
+[USF-XSim-98] Fetching design files from 'sim_1'...
+
+[USF-XSim-98] *** Running xsim
+
+[USF-XSim-8] Loading simulator feature
+
+[USF-XSim-96] XSim completed. Design snapshot 'aes_tb_behav' loaded.
+
+[USF-XSim-97] Finding global include files...
+
+[USF-XSim-97] XSim simulation ran for 1000ns
+
+[Simtcl 6-16] Simulation closed
+
+[Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a35ti'
+
+Synthesis
+ Command: synth_design -top uart_aes_top -part xc7a35ticpg236-1L
+
+ Starting synth_design
+
+ Attempting to get a license for feature 'Synthesis' and/or device 'xc7a35ti'
+
+ 
+Processing XDC Constraints
+
+ Initializing timing engine
+
+ Parsing XDC File ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc"]
+
+ Finished Parsing XDC File ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc"]
+
+ Parsing XDC File ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/basys3.xdc"]
+
+ Finished Parsing XDC File ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/basys3.xdc"]
+
+ Completed Processing XDC Constraints
+
+
+ Synth Design complete | Checksum: 57a01a95
+
+ 48 Infos, 11 Warnings, 10 Critical Warnings and 0 Errors encountered.
+
+ synth_design completed successfully
+
+[Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a35ti'
+
+[Device 21-403] Loading part xc7a35ticpg236-1L
+
+[Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+
+[Synth 8-7078] Launching helper process for spawning children vivado processes
+
+[Synth 8-7075] Helper process launched with PID 20012
+
+[Synth 8-6157] synthesizing module 'uart_aes_top' ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/uart_aes_top.v":3]
+
+[Synth 8-6157] synthesizing module 'uart_rx' ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/uart_rx.v":3]
+
+[Synth 8-6157] synthesizing module 'uart_tx' ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/uart_tx.v":3]
+
+[Synth 8-6157] synthesizing module 'aes_top' ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/aes_top.v":24]
+
+[Synth 8-6157] synthesizing module 'control_unit' ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/control_unit.v":22]
+
+[Synth 8-6157] synthesizing module 'key_expansion' ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/key_expansion.v":22]
+
+[Synth 8-6157] synthesizing module 'sbox' ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/sbox.v":8]
+
+[Synth 8-6157] synthesizing module 'aes_round' ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/aes_round.v":9]
+
+[Synth 8-6157] synthesizing module 'shift_rows' ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/shift_rows.v":25]
+
+[Synth 8-6157] synthesizing module 'mix_columns' ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/mix_columns.v":11]
+
+[Synth 8-6157] synthesizing module 'mix_column' ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/mix_column.v":22]
+
+[Synth 8-6157] synthesizing module 'add_round_key' ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/add_round_key.v":8]
+
+[Synth 8-6155] done synthesizing module 'uart_rx' (0#1) ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/uart_rx.v":3]
+
+[Synth 8-6155] done synthesizing module 'uart_tx' (0#1) ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/uart_tx.v":3]
+
+[Synth 8-6155] done synthesizing module 'control_unit' (0#1) ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/control_unit.v":22]
+
+[Synth 8-6155] done synthesizing module 'sbox' (0#1) ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/sbox.v":8]
+
+[Synth 8-6155] done synthesizing module 'key_expansion' (0#1) ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/key_expansion.v":22]
+
+[Synth 8-6155] done synthesizing module 'shift_rows' (0#1) ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/shift_rows.v":25]
+
+[Synth 8-6155] done synthesizing module 'mix_column' (0#1) ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/mix_column.v":22]
+
+[Synth 8-6155] done synthesizing module 'mix_columns' (0#1) ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/mix_columns.v":11]
+
+[Synth 8-6155] done synthesizing module 'add_round_key' (0#1) ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/add_round_key.v":8]
+
+[Synth 8-6155] done synthesizing module 'aes_round' (0#1) ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/aes_round.v":9]
+
+[Synth 8-6155] done synthesizing module 'aes_top' (0#1) ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/aes_top.v":24]
+
+[Synth 8-6155] done synthesizing module 'uart_aes_top' (0#1) ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/sources_1/new/uart_aes_top.v":3]
+
+[Vivado 12-584] No ports matched 'plaintext[*]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":14]
+
+[Vivado 12-584] No ports matched 'plaintext[*]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":15]
+
+[Vivado 12-584] No ports matched 'cipher_key[*]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":17]
+
+[Vivado 12-584] No ports matched 'cipher_key[*]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":18]
+
+[Vivado 12-584] No ports matched 'start'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":20]
+
+[Vivado 12-584] No ports matched 'start'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":21]
+
+[Vivado 12-584] No ports matched 'ciphertext[*]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":27]
+
+[Vivado 12-584] No ports matched 'ciphertext[*]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":28]
+
+[Vivado 12-584] No ports matched 'done'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":30]
+
+[Vivado 12-584] No ports matched 'done'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":31]
+
+[Vivado 12-4739] set_input_delay:No valid object(s) found for '-objects [get_ports {plaintext[*]}]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":14]
+
+[Vivado 12-4739] set_input_delay:No valid object(s) found for '-objects [get_ports {plaintext[*]}]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":15]
+
+[Vivado 12-4739] set_input_delay:No valid object(s) found for '-objects [get_ports {cipher_key[*]}]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":17]
+
+[Vivado 12-4739] set_input_delay:No valid object(s) found for '-objects [get_ports {cipher_key[*]}]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":18]
+
+[Vivado 12-4739] set_input_delay:No valid object(s) found for '-objects [get_ports start]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":20]
+
+[Vivado 12-4739] set_input_delay:No valid object(s) found for '-objects [get_ports start]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":21]
+
+[Vivado 12-4739] set_output_delay:No valid object(s) found for '-objects [get_ports {ciphertext[*]}]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":27]
+
+[Vivado 12-4739] set_output_delay:No valid object(s) found for '-objects [get_ports {ciphertext[*]}]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":28]
+
+[Vivado 12-4739] set_output_delay:No valid object(s) found for '-objects [get_ports done]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":30]
+
+[Vivado 12-4739] set_output_delay:No valid object(s) found for '-objects [get_ports done]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":31]
+
+[Project 1-236] Implementation specific constraints were found while reading constraint file [C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/uart_aes_top_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in ['Undefined'] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+
+[Project 1-236] Implementation specific constraints were found while reading constraint file [C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/basys3.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/uart_aes_top_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in ['Undefined'] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+
+[Synth 8-802] inferred FSM for state register 'state_reg' in module 'uart_rx'
+
+[Synth 8-802] inferred FSM for state register 'state_reg' in module 'uart_tx'
+
+[Synth 8-802] inferred FSM for state register 'state_reg' in module 'control_unit'
+
+[Synth 8-802] inferred FSM for state register 'state_reg' in module 'uart_aes_top'
+
+[Synth 8-3354] encoded FSM with state register 'state_reg' using encoding 'sequential' in module 'uart_rx'
+
+[Synth 8-3354] encoded FSM with state register 'state_reg' using encoding 'sequential' in module 'uart_tx'
+
+[Synth 8-3354] encoded FSM with state register 'state_reg' using encoding 'one-hot' in module 'control_unit'
+
+[Synth 8-3354] encoded FSM with state register 'state_reg' using encoding 'one-hot' in module 'uart_aes_top'
+
+[Synth 8-7080] Parallel synthesis criteria is not met
+
+[Project 1-571] Translating synthesized netlist
+
+[Netlist 29-17] Analyzing 1096 Unisim elements for replacement
+
+[Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+
+[Project 1-570] Preparing netlist for logic optimization
+
+[Project 1-570] Preparing netlist for logic optimization
+
+[Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+
+[Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+
+[Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+
+[Common 17-83] Releasing license: Synthesis
+
+[Common 17-1381] The checkpoint 'C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.runs/synth_1/uart_aes_top.dcp' has been generated.
+
+[runtcl-6] Synthesis results are not added to the cache due to CRITICAL_WARNING
+
+[Common 17-206] Exiting Vivado at Mon Apr 13 22:58:16 2026...
+
+Implementation
+Design Initialization
+ Command: link_design -top uart_aes_top -part xc7a35ticpg236-1L
+
+ Design is defaulting to srcset: sources_1
+
+ Design is defaulting to constrset: constrs_1
+
+ Parsing XDC File ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc"]
+
+ Finished Parsing XDC File ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc"]
+
+ Parsing XDC File ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/basys3.xdc"]
+
+ Finished Parsing XDC File ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/basys3.xdc"]
+
+ 7 Infos, 10 Warnings, 10 Critical Warnings and 0 Errors encountered.
+
+ link_design completed successfully
+
+[Device 21-403] Loading part xc7a35ticpg236-1L
+
+[Netlist 29-17] Analyzing 1096 Unisim elements for replacement
+
+[Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+
+[Project 1-479] Netlist was created with Vivado 2023.1
+
+[Project 1-570] Preparing netlist for logic optimization
+
+[Vivado 12-584] No ports matched 'plaintext[*]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":14]
+
+[Vivado 12-584] No ports matched 'plaintext[*]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":15]
+
+[Vivado 12-584] No ports matched 'cipher_key[*]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":17]
+
+[Vivado 12-584] No ports matched 'cipher_key[*]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":18]
+
+[Vivado 12-584] No ports matched 'start'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":20]
+
+[Vivado 12-584] No ports matched 'start'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":21]
+
+[Vivado 12-584] No ports matched 'ciphertext[*]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":27]
+
+[Vivado 12-584] No ports matched 'ciphertext[*]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":28]
+
+[Vivado 12-584] No ports matched 'done'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":30]
+
+[Vivado 12-584] No ports matched 'done'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":31]
+
+[Vivado 12-4739] set_input_delay:No valid object(s) found for '-objects [get_ports {plaintext[*]}]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":14]
+
+[Vivado 12-4739] set_input_delay:No valid object(s) found for '-objects [get_ports {plaintext[*]}]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":15]
+
+[Vivado 12-4739] set_input_delay:No valid object(s) found for '-objects [get_ports {cipher_key[*]}]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":17]
+
+[Vivado 12-4739] set_input_delay:No valid object(s) found for '-objects [get_ports {cipher_key[*]}]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":18]
+
+[Vivado 12-4739] set_input_delay:No valid object(s) found for '-objects [get_ports start]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":20]
+
+[Vivado 12-4739] set_input_delay:No valid object(s) found for '-objects [get_ports start]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":21]
+
+[Vivado 12-4739] set_output_delay:No valid object(s) found for '-objects [get_ports {ciphertext[*]}]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":27]
+
+[Vivado 12-4739] set_output_delay:No valid object(s) found for '-objects [get_ports {ciphertext[*]}]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":28]
+
+[Vivado 12-4739] set_output_delay:No valid object(s) found for '-objects [get_ports done]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":30]
+
+[Vivado 12-4739] set_output_delay:No valid object(s) found for '-objects [get_ports done]'. ["C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.srcs/constrs_1/new/timing.xdc":31]
+
+[Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+
+[Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+
+Opt Design
+ Command: opt_design
+
+ Attempting to get a license for feature 'Implementation' and/or device 'xc7a35ti'
+
+ Running DRC as a precondition to command opt_design
+
+ 
+Starting DRC Task
+
+ 
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.878 . Memory (MB): peak = 1000.289 ; gain = 17.020
+
+ 
+Starting Cache Timing Information Task
+
+ Ending Cache Timing Information Task | Checksum: 14d915340
+
+ 
+Time (s): cpu = 00:00:06 ; elapsed = 00:00:06 . Memory (MB): peak = 1547.340 ; gain = 547.051
+
+ 
+Starting Logic Optimization Task
+
+ 
+Phase 1 Retarget
+
+ Phase 1 Retarget | Checksum: 14d915340
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.196 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 2 Constant propagation
+
+ Phase 2 Constant propagation | Checksum: 14d915340
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.225 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 3 Sweep
+
+ Phase 3 Sweep | Checksum: 14d915340
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.259 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 4 BUFG optimization
+
+ Phase 4 BUFG optimization | Checksum: 14d915340
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.309 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 5 Shift Register Optimization
+
+ Phase 5 Shift Register Optimization | Checksum: 14d915340
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.329 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 6 Post Processing Netlist
+
+ Phase 6 Post Processing Netlist | Checksum: 14d915340
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.340 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ Opt_design Change Summary
+
+ =========================
+
+ -------------------------------------------------------------------------------------------------------------------------
+
+ |  Phase                        |  #Cells created  |  #Cells Removed  |  #Constrained objects preventing optimizations  |
+-------------------------------------------------------------------------------------------------------------------------
+
+ |  Retarget                     |               0  |               0  |                                              0  |
+|  Constant propagation         |               0  |               0  |                                              0  |
+|  Sweep                        |               0  |               0  |                                              0  |
+|  BUFG optimization            |               0  |               0  |                                              0  |
+|  Shift Register Optimization  |               0  |               0  |                                              0  |
+|  Post Processing Netlist      |               0  |               0  |                                              0  |
+-------------------------------------------------------------------------------------------------------------------------
+
+ 
+Starting Connectivity Check Task
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.008 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ Ending Logic Optimization Task | Checksum: 14d915340
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.351 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Starting Power Optimization Task
+
+ Ending Power Optimization Task | Checksum: 14d915340
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.020 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Starting Final Cleanup Task
+
+ Ending Final Cleanup Task | Checksum: 14d915340
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Starting Netlist Obfuscation Task
+
+ Ending Netlist Obfuscation Task | Checksum: 14d915340
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.002 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 24 Infos, 10 Warnings, 10 Critical Warnings and 0 Errors encountered.
+
+ opt_design completed successfully
+
+ Command: report_drc -file uart_aes_top_drc_opted.rpt -pb uart_aes_top_drc_opted.pb -rpx uart_aes_top_drc_opted.rpx
+
+ report_drc completed successfully
+
+ Writing XDEF routing.
+
+ Writing XDEF routing logical nets.
+
+ Writing XDEF routing special nets.
+
+[Common 17-349] Got license for feature 'Implementation' and/or device 'xc7a35ti'
+
+[Project 1-461] DRC finished with 0 Errors
+
+[Project 1-462] Please refer to the DRC report (report_drc) for more information.
+
+[Timing 38-35] Done setting XDC timing constraints.
+
+[Opt 31-49] Retargeted 0 cell(s).
+
+[Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+
+[Opt 31-389] Phase Retarget created 0 cells and removed 0 cells
+
+[Opt 31-662] Phase BUFG optimization created 0 cells of which 0 are BUFGs and removed 0 cells.
+
+[Opt 31-1064] SRL Remap converted 0 SRLs to 0 registers and converted 0 registers of register chains to 0 SRLs
+
+[Pwropt 34-132] Skipping clock gating for clocks with a period < 2.00 ns.
+
+[Common 17-83] Releasing license: Implementation
+
+[runtcl-6] Executing : report_drc -file uart_aes_top_drc_opted.rpt -pb uart_aes_top_drc_opted.pb -rpx uart_aes_top_drc_opted.rpx
+
+[IP_Flow 19-234] Refreshing IP repositories
+
+[IP_Flow 19-1704] No user IP repositories specified
+
+[IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2023.1/data/ip'.
+
+[DRC 23-27] Running DRC with 2 threads
+
+[DRC 23-27] Running DRC with 2 threads
+
+[Vivado_Tcl 2-168] The results of DRC are in file "C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.runs/impl_1/uart_aes_top_drc_opted.rpt".
+
+[Timing 38-480] Writing timing data to binary archive.
+
+[Common 17-1381] The checkpoint 'C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.runs/impl_1/uart_aes_top_opt.dcp' has been generated.
+
+Place Design
+ Command: place_design
+
+ Attempting to get a license for feature 'Implementation' and/or device 'xc7a35ti'
+
+ Running DRC as a precondition to command place_design
+
+ 
+Starting Placer Task
+
+ 
+Phase 1 Placer Initialization
+
+ 
+Phase 1.1 Placer Initialization Netlist Sorting
+
+ Phase 1.1 Placer Initialization Netlist Sorting | Checksum: f5f138ab
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.020 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 1.2 IO Placement/ Clock Placement/ Build Placer Device
+
+ Phase 1.2 IO Placement/ Clock Placement/ Build Placer Device | Checksum: 18383e5b3
+
+ 
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.385 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 1.3 Build Placer Netlist Model
+
+ Phase 1.3 Build Placer Netlist Model | Checksum: 25cf35bb2
+
+ 
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:01 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 1.4 Constrain Clocks/Macros
+
+ Phase 1.4 Constrain Clocks/Macros | Checksum: 25cf35bb2
+
+ 
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:01 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ Phase 1 Placer Initialization | Checksum: 25cf35bb2
+
+ 
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:01 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 2 Global Placement
+
+ 
+Phase 2.1 Floorplanning
+
+ Phase 2.1 Floorplanning | Checksum: 18dd6f066
+
+ 
+Time (s): cpu = 00:00:02 ; elapsed = 00:00:01 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 2.2 Update Timing before SLR Path Opt
+
+ Phase 2.2 Update Timing before SLR Path Opt | Checksum: 2397c5efe
+
+ 
+Time (s): cpu = 00:00:02 ; elapsed = 00:00:02 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 2.3 Post-Processing in Floorplanning
+
+ Phase 2.3 Post-Processing in Floorplanning | Checksum: 2397c5efe
+
+ 
+Time (s): cpu = 00:00:02 ; elapsed = 00:00:02 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 2.4 Global Placement Core
+
+ 
+Phase 2.4.1 UpdateTiming Before Physical Synthesis
+
+ Phase 2.4.1 UpdateTiming Before Physical Synthesis | Checksum: 2382bed7b
+
+ 
+Time (s): cpu = 00:00:08 ; elapsed = 00:00:05 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 2.4.2 Physical Synthesis In Placer
+
+ 
+Summary of Physical Synthesis Optimizations
+
+ ============================================
+
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ |  Optimization                                     |  Added Cells  |  Removed Cells  |  Optimized Cells/Nets  |  Dont Touch  |  Iterations  |  Elapsed   |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ |  LUT Combining                                    |          215  |              3  |                   218  |           0  |           1  |  00:00:00  |
+|  Retime                                           |            0  |              0  |                     0  |           0  |           1  |  00:00:00  |
+|  Very High Fanout                                 |            0  |              0  |                     0  |           0  |           1  |  00:00:00  |
+|  DSP Register                                     |            0  |              0  |                     0  |           0  |           1  |  00:00:00  |
+|  Shift Register to Pipeline                       |            0  |              0  |                     0  |           0  |           1  |  00:00:00  |
+|  Shift Register                                   |            0  |              0  |                     0  |           0  |           1  |  00:00:00  |
+|  BRAM Register                                    |            0  |              0  |                     0  |           0  |           1  |  00:00:00  |
+|  URAM Register                                    |            0  |              0  |                     0  |           0  |           1  |  00:00:00  |
+|  Dynamic/Static Region Interface Net Replication  |            0  |              0  |                     0  |           0  |           1  |  00:00:00  |
+|  Total                                            |          215  |              3  |                   218  |           0  |           9  |  00:00:00  |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Phase 2.4.2 Physical Synthesis In Placer | Checksum: da169b99
+
+ 
+Time (s): cpu = 00:00:09 ; elapsed = 00:00:06 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ Phase 2.4 Global Placement Core | Checksum: eec8847f
+
+ 
+Time (s): cpu = 00:00:09 ; elapsed = 00:00:06 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ Phase 2 Global Placement | Checksum: eec8847f
+
+ 
+Time (s): cpu = 00:00:09 ; elapsed = 00:00:06 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 3 Detail Placement
+
+ 
+Phase 3.1 Commit Multi Column Macros
+
+ Phase 3.1 Commit Multi Column Macros | Checksum: 16b9f5178
+
+ 
+Time (s): cpu = 00:00:09 ; elapsed = 00:00:06 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 3.2 Commit Most Macros & LUTRAMs
+
+ Phase 3.2 Commit Most Macros & LUTRAMs | Checksum: 15827928f
+
+ 
+Time (s): cpu = 00:00:10 ; elapsed = 00:00:07 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 3.3 Area Swap Optimization
+
+ Phase 3.3 Area Swap Optimization | Checksum: 1bb32df04
+
+ 
+Time (s): cpu = 00:00:10 ; elapsed = 00:00:07 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 3.4 Pipeline Register Optimization
+
+ Phase 3.4 Pipeline Register Optimization | Checksum: 1b6136ab2
+
+ 
+Time (s): cpu = 00:00:10 ; elapsed = 00:00:07 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 3.5 Fast Optimization
+
+ Phase 3.5 Fast Optimization | Checksum: 149106ee4
+
+ 
+Time (s): cpu = 00:00:16 ; elapsed = 00:00:14 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 3.6 Small Shape Detail Placement
+
+ Phase 3.6 Small Shape Detail Placement | Checksum: db49046b
+
+ 
+Time (s): cpu = 00:00:18 ; elapsed = 00:00:16 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 3.7 Re-assign LUT pins
+
+ Phase 3.7 Re-assign LUT pins | Checksum: 100bea8cc
+
+ 
+Time (s): cpu = 00:00:18 ; elapsed = 00:00:16 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 3.8 Pipeline Register Optimization
+
+ Phase 3.8 Pipeline Register Optimization | Checksum: 19385ad3a
+
+ 
+Time (s): cpu = 00:00:18 ; elapsed = 00:00:16 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 3.9 Fast Optimization
+
+ Phase 3.9 Fast Optimization | Checksum: 113d38fb1
+
+ 
+Time (s): cpu = 00:00:26 ; elapsed = 00:00:25 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ Phase 3 Detail Placement | Checksum: 113d38fb1
+
+ 
+Time (s): cpu = 00:00:26 ; elapsed = 00:00:25 . Memory (MB): peak = 1885.738 ; gain = 0.000
+
+ 
+Phase 4 Post Placement Optimization and Clean-Up
+
+ 
+Phase 4.1 Post Commit Optimization
+
+ 
+Phase 4.1.1 Post Placement Optimization
+
+ Post Placement Optimization Initialization | Checksum: 18d88cdb9
+
+ 
+Phase 4.1.1.1 BUFG Insertion
+
+ 
+Starting Physical Synthesis Task
+
+ 
+Phase 1 Physical Synthesis Initialization
+
+ Phase 1 Physical Synthesis Initialization | Checksum: 1399de751
+
+ 
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.147 . Memory (MB): peak = 1886.766 ; gain = 0.000
+
+ Ending Physical Synthesis Task | Checksum: 1399de751
+
+ 
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.182 . Memory (MB): peak = 1886.766 ; gain = 0.000
+
+ Phase 4.1.1.1 BUFG Insertion | Checksum: 18d88cdb9
+
+ 
+Time (s): cpu = 00:00:28 ; elapsed = 00:00:26 . Memory (MB): peak = 1886.766 ; gain = 1.027
+
+ 
+Phase 4.1.1.2 Post Placement Timing Optimization
+
+ Phase 4.1.1.2 Post Placement Timing Optimization | Checksum: 1d80e3d89
+
+ 
+Time (s): cpu = 00:00:44 ; elapsed = 00:00:40 . Memory (MB): peak = 2126.590 ; gain = 240.852
+
+ 
+Time (s): cpu = 00:00:44 ; elapsed = 00:00:40 . Memory (MB): peak = 2126.590 ; gain = 240.852
+
+ Phase 4.1 Post Commit Optimization | Checksum: 1d80e3d89
+
+ 
+Time (s): cpu = 00:00:44 ; elapsed = 00:00:40 . Memory (MB): peak = 2126.590 ; gain = 240.852
+
+ 
+Phase 4.2 Post Placement Cleanup
+
+ Phase 4.2 Post Placement Cleanup | Checksum: 1d80e3d89
+
+ 
+Time (s): cpu = 00:00:44 ; elapsed = 00:00:41 . Memory (MB): peak = 2126.590 ; gain = 240.852
+
+ 
+Phase 4.3 Placer Reporting
+
+ 
+Phase 4.3.1 Print Estimated Congestion
+
+ Phase 4.3.1 Print Estimated Congestion | Checksum: 1d80e3d89
+
+ 
+Time (s): cpu = 00:00:44 ; elapsed = 00:00:41 . Memory (MB): peak = 2126.590 ; gain = 240.852
+
+ Phase 4.3 Placer Reporting | Checksum: 1d80e3d89
+
+ 
+Time (s): cpu = 00:00:44 ; elapsed = 00:00:41 . Memory (MB): peak = 2126.590 ; gain = 240.852
+
+ 
+Phase 4.4 Final Placement Cleanup
+
+ 
+Time (s): cpu = 00:00:44 ; elapsed = 00:00:41 . Memory (MB): peak = 2126.590 ; gain = 240.852
+
+ Phase 4 Post Placement Optimization and Clean-Up | Checksum: 1c2e679b3
+
+ 
+Time (s): cpu = 00:00:44 ; elapsed = 00:00:41 . Memory (MB): peak = 2126.590 ; gain = 240.852
+
+ Ending Placer Task | Checksum: 16ca79b29
+
+ 
+Time (s): cpu = 00:00:44 ; elapsed = 00:00:41 . Memory (MB): peak = 2126.590 ; gain = 240.852
+
+ 68 Infos, 10 Warnings, 10 Critical Warnings and 0 Errors encountered.
+
+ place_design completed successfully
+
+ report_io: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.029 . Memory (MB): peak = 2126.590 ; gain = 0.000
+
+ report_control_sets: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.004 . Memory (MB): peak = 2126.590 ; gain = 0.000
+
+ Writing XDEF routing.
+
+ Writing XDEF routing logical nets.
+
+ Writing XDEF routing special nets.
+
+[Common 17-349] Got license for feature 'Implementation' and/or device 'xc7a35ti'
+
+[DRC 23-27] Running DRC with 2 threads
+
+[DRC 23-27] Running DRC with 2 threads
+
+[Vivado_Tcl 4-198] DRC finished with 0 Errors
+
+[Vivado_Tcl 4-198] DRC finished with 0 Errors
+
+[Vivado_Tcl 4-199] Please refer to the DRC report (report_drc) for more information.
+
+[Vivado_Tcl 4-199] Please refer to the DRC report (report_drc) for more information.
+
+[Place 30-611] Multithreading enabled for place_design using a maximum of 2 CPUs
+
+[Physopt 32-1035] Found 215 LUTNM shape to break, 7 LUT instances to create LUTNM shape
+
+[Physopt 32-1044] Break lutnm for timing: one critical 24, two critical 191, total 215, new lutff created 0
+
+[Physopt 32-1138] End 1 Pass. Optimized 218 nets or LUTs. Breaked 215 LUTs, combined 3 existing LUTs and moved 0 existing LUT
+
+[Physopt 32-65] No nets found for high-fanout optimization.
+
+[Physopt 32-232] Optimized 0 net. Created 0 new instance.
+
+[Physopt 32-456] No candidate cells for DSP register optimization found in the design.
+
+[Physopt 32-775] End 1 Pass. Optimized 0 net or cell. Created 0 new cell, deleted 0 existing cell and moved 0 existing cell
+
+[Physopt 32-775] End 2 Pass. Optimized 0 net or cell. Created 0 new cell, deleted 0 existing cell and moved 0 existing cell
+
+[Physopt 32-775] End 2 Pass. Optimized 0 net or cell. Created 0 new cell, deleted 0 existing cell and moved 0 existing cell
+
+[Physopt 32-775] End 1 Pass. Optimized 0 net or cell. Created 0 new cell, deleted 0 existing cell and moved 0 existing cell
+
+[Physopt 32-775] End 1 Pass. Optimized 0 net or cell. Created 0 new cell, deleted 0 existing cell and moved 0 existing cell
+
+[Physopt 32-775] End 1 Pass. Optimized 0 net or cell. Created 0 new cell, deleted 0 existing cell and moved 0 existing cell
+
+[Physopt 32-775] End 1 Pass. Optimized 0 net or cell. Created 0 new cell, deleted 0 existing cell and moved 0 existing cell
+
+[Physopt 32-775] End 1 Pass. Optimized 0 net or cell. Created 0 new cell, deleted 0 existing cell and moved 0 existing cell
+
+[Physopt 32-1123] No candidate cells found for Shift Register to Pipeline optimization
+
+[Physopt 32-677] No candidate cells for Shift Register optimization found in the design
+
+[Physopt 32-526] No candidate cells for BRAM register optimization found in the design
+
+[Physopt 32-846] No candidate cells for URAM register optimization found in the design
+
+[Physopt 32-846] No candidate cells for URAM register optimization found in the design
+
+[Physopt 32-949] No candidate nets found for dynamic/static region interface net replication
+
+[Timing 38-35] Done setting XDC timing constraints.
+
+[Timing 38-35] Done setting XDC timing constraints.
+
+[Physopt 32-721] Multithreading enabled for phys_opt_design using a maximum of 2 CPUs
+
+[Physopt 32-619] Estimated Timing Summary | WNS=-23.497 | TNS=-5770.824 |
+
+[Place 46-56] BUFG insertion identified 0 candidate nets. Inserted BUFG: 0, Replicated BUFG Driver: 0, Skipped due to Placement/Routing Conflicts: 0, Skipped due to Timing Degradation: 0, Skipped due to netlist editing failed: 0.
+
+[Place 30-746] Post Placement Timing Summary WNS=-21.285. For the most accurate timing information please run report_timing.
+
+[Place 30-612] Post-Placement Estimated Congestion 
+ ____________________________________________________
+|           | Global Congestion | Short Congestion  |
+| Direction | Region Size       | Region Size       |
+|___________|___________________|___________________|
+|      North|                2x2|                4x4|
+|___________|___________________|___________________|
+|      South|                1x1|                1x1|
+|___________|___________________|___________________|
+|       East|                1x1|                1x1|
+|___________|___________________|___________________|
+|       West|                1x1|                1x1|
+|___________|___________________|___________________|
+
+
+[Common 17-83] Releasing license: Implementation
+
+[runtcl-6] Executing : report_io -file uart_aes_top_io_placed.rpt
+
+[runtcl-6] Executing : report_utilization -file uart_aes_top_utilization_placed.rpt -pb uart_aes_top_utilization_placed.pb
+
+[runtcl-6] Executing : report_control_sets -verbose -file uart_aes_top_control_sets_placed.rpt
+
+[Timing 38-480] Writing timing data to binary archive.
+
+[Common 17-1381] The checkpoint 'C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.runs/impl_1/uart_aes_top_placed.dcp' has been generated.
+
+Post-Place Phys Opt Design
+ Command: phys_opt_design
+
+[Common 17-349] Got license for feature 'Implementation' and/or device 'xc7a35ti'
+
+[Vivado_Tcl 4-1435] PhysOpt_Tcl_Interface Runtime Before Starting Physical Synthesis Task | CPU: 1.00s |  WALL: 0.71s
+
+[Physopt 32-721] Multithreading enabled for phys_opt_design using a maximum of 2 CPUs
+
+[Physopt 32-619] Estimated Timing Summary | WNS=-21.285 | TNS=-5348.049 |
+
+[Physopt 32-456] No candidate cells for DSP register optimization found in the design.
+
+[Physopt 32-775] End 2 Pass. Optimized 0 net or cell. Created 0 new cell, deleted 0 existing cell and moved 0 existing cell
+
+[Physopt 32-702] Processed net aes_inst/state_reg[13]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[24]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[125]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[17]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[69]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[16]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[8]_repN. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[101]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[78]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[97]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[127]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/current_round_key[31]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/ciphertext[127]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/rk10[127]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_0/sub10[1]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[32]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/g0_b0__38_i_6_31. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/rk9[16]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/g0_b0__38_i_7_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb9_1/sub9[0]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/g0_b0__33_i_6_24. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[97]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk8[11]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk8[8]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[12]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk8[9]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[110]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/current_round_key[30]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/ciphertext[110]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk10[110]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[11]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[42]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[4]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[83]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[1]_repN. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[103]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/current_round_key[31]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/ciphertext[103]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/rk10[103]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[37]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[5]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[52]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[107]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[65]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[5]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[108]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[17]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[117]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/current_round_key[29]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/ciphertext[117]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[106]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk8[13]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[86]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[106]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[114]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[34]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[3]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[81]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[74]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[44]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/current_round_key[12]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/ciphertext[44]_i_2_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[13]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[7]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[46]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[109]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[6]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[20]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[12]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[111]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/current_round_key[31]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/ciphertext[111]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk10[111]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[75]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[19]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[22]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[20]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[55]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/ciphertext[12]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[84]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[19]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[101]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[4]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[11]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[113]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[115]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[113]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_2/sub10[0]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/g0_b0__36_i_6_6. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/rk9[1]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[23]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[1]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/g0_b0__36_i_6_14. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/rk9[3]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/rk9[0]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/rk9[5]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[23]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[51]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[33]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[16]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/current_round_key[9]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/ciphertext[33]_i_2_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/cipher_key_reg[97]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_3/g3_b1__35. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[110]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[24]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/current_round_key[30]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/ciphertext[110]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk10[110]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[5]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/ciphertext[5]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/cipher_key_reg[101]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_3/g3_b5__35. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_2/sub10[0]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/g0_b0__36_i_6_22. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/rk9[4]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/g0_b0__36_i_15_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb9_3/sub9[4]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/rk9[2]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/g0_b0__36_i_11_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb9_3/sub9[2]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[49]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[1]_repN. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/current_round_key[9]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/ciphertext[49]_i_2_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/cipher_key_reg[113]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_1/g1_b1__37. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/cipher_key_reg[111][0]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_17. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/rk9[27]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_13_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[118]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/current_round_key[30]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/ciphertext[118]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/rk10[118]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[21]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/current_round_key[5]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/ciphertext[21]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/cipher_key_reg[117]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_1/g1_b5__37. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/g0_b0__37_i_6_13. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk9[13]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/g0_b0__37_i_17_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[100]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/current_round_key[28]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/ciphertext[100]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/cipher_key_reg[100]_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_3/g1_b4__35. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_25. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/rk9[25]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_9_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb9_0/sub9[1]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/g0_b0__34_i_6_17. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/rk8[16]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/rk8[112]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[102]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/current_round_key[30]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/ciphertext[102]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/rk10[102]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_3/sub10[0]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/rk9[29]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_17_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_4. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/rk9[26]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_11_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[115]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/current_round_key[27]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/ciphertext[115]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/cipher_key_reg[115]_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_1/g3_b3__37. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_3/g1_b5__35. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[7]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/current_round_key[7]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[127]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[8]_repN. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/current_round_key[31]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/ciphertext[127]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/rk10[127]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[2]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/current_round_key[2]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/ciphertext[2]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/cipher_key_reg[98]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_3/g1_b2__35. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[33]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[24]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[8]_repN. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[110]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[24]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/current_round_key[30]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/ciphertext[110]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk10[110]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_2/sub10[0]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/g0_b0__36_i_6_22. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/rk9[0]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb9_3/sub9[0]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/cipher_key_reg[126][1]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[16]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[2]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[22]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[1]_repN. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[100]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[6]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/rk9[4]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[7]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[16]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/current_round_key[7]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/ciphertext[7]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/cipher_key_reg[103]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_3/g1_b7__35. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_15. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/rk9[24]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_7_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[30]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[8]_repN. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/current_round_key[6]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/ciphertext[30]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/cipher_key_reg[126]_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_0/g1_b6__38. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[49]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[1]_repN. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/current_round_key[9]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/ciphertext[49]_i_2_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/cipher_key_reg[113]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_1/g1_b1__37. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/cipher_key_reg[111][0]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[115]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/current_round_key[27]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/ciphertext[115]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/cipher_key_reg[115]_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_1/g3_b3__37. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[110]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net cipher_key_reg_n_0_[24]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/current_round_key[30]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/ciphertext[110]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk10[110]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_2/sub10[0]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[127]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/current_round_key[31]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/ciphertext[127]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/rk10[127]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[118]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/current_round_key[30]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/ciphertext[118]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/rk10[118]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_1/sub10[0]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/ciphertext[100]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/current_round_key[28]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/ciphertext[100]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[21]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/current_round_key[5]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/ciphertext[21]_i_5_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/cipher_key_reg[117]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_1/g1_b5__37. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/g0_b0__37_i_6_13. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk9[13]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/g0_b0__37_i_17_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb9_2/sub9[5]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/g0_b0__37_i_6_27. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk9[11]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/g0_b0__37_i_13_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb9_2/sub9[3]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_3/cipher_key_reg[110]_1. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb9_2/g1_b6__32. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_1/g1_b3__37. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/cipher_key_reg[100]_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_3/g3_b4__35. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_28. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/rk9[25]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_9_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb9_0/sub9[1]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/g0_b0__34_i_6_17. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/state_reg[92]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/current_round_key[20]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_0/ciphertext[92]_i_2_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/cipher_key_reg[124]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb10_0/g1_b4__38. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/g0_b0__38_i_6_12. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/rk9[17]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_1/g0_b0__38_i_9_n_0. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb9_1/sub9[1]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/g0_b0__33_i_6_17. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk8[10]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb1_2/rk8[106]. Optimizations did not improve timing on the net.
+
+[Physopt 32-702] Processed net aes_inst/kex/sb8_2/sub8[2]. Optimizations did not improve timing on the net.
+
+[Physopt 32-735] Processed net cipher_key_reg_n_0_[24]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[5]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net cipher_key_reg_n_0_[8]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net cipher_key_reg_n_0_[0]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[21]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net cipher_key_reg_n_0_[8]_repN. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_0/current_round_key[29]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[29]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[22]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net cipher_key_reg_n_0_[1]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[25]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/g0_b0__38_i_6_31. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[8]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/rk8[13]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[25]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/rk8[107]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/rk8[104]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[4]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/rk8[105]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb10_2/sub10[0]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[3]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[10]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[4]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[19]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[1]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb10_3/sub10[1]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[13]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[5]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[12]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[27]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[17]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[5]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb10_3/sub10[1]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[28]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[1]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/cipher_key_reg[117]_0. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[26]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/rk8[109]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[22]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[26]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[26]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[10]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[3]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[17]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[18]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/cipher_key_reg[108]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[5]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[7]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[14]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[29]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[6]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[4]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[4]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb10_2/sub10[1]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[19]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[3]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/cipher_key_reg[108]_repN. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[6]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[4]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[15]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/cipher_key_reg[108]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[20]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[3]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[29]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb8_2/sub8[1]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb8_2/sub8[1]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[4]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/current_round_key[3]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[25]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[27]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[25]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/g0_b0__36_i_9_n_0. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[7]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/current_round_key[1]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/g0_b0__36_i_13_n_0. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/g0_b0__36_i_7_n_0. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb10_3/sub10[1]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/g0_b0__36_i_17_n_0. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[7]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_1/current_round_key[11]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_25. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb10_2/sub10[0]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_21. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_0/g0_b0__31_i_6_28. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_29. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_0/g0_b0__31_i_6_18. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_3/cipher_key_reg[110]_1. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb9_0/sub9[3]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb10_1/sub10[0]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb9_2/sub9[5]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_12. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb8_1/sub8[0]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_12. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_4. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_22. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb9_0/sub9[5]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb9_0/sub9[2]. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/g0_b0__37_i_6_27. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_2/g0_b0__37_i_6_19. Optimization improves timing on the net.
+
+[Physopt 32-735] Processed net aes_inst/kex/sb1_0/g0_b0__35_i_6_13. Optimization improves timing on the net.
+
+[Physopt 32-81] Processed net cipher_key_reg_n_0_[24]. Replicated 1 times.
+
+[Physopt 32-81] Processed net cipher_key_reg_n_0_[8]. Replicated 2 times.
+
+[Physopt 32-81] Processed net cipher_key_reg_n_0_[0]. Replicated 2 times.
+
+[Physopt 32-81] Processed net cipher_key_reg_n_0_[8]_repN. Replicated 1 times.
+
+[Physopt 32-81] Processed net cipher_key_reg_n_0_[1]. Replicated 2 times.
+
+[Physopt 32-81] Processed net aes_inst/kex/sb1_3/cipher_key_reg[108]. Replicated 1 times.
+
+[Physopt 32-81] Processed net aes_inst/kex/sb8_2/sub8[1]. Replicated 1 times.
+
+[Physopt 32-81] Processed net cipher_key_reg_n_0_[16]. Replicated 1 times.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[13]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[13]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[69]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[69]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_0/D[29]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_0/ciphertext[125]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_3/D[29]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_3/ciphertext[101]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[78]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[78]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_3/D[25]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_3/ciphertext[97]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[32]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[32]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[97]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[97]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_2/rk8[11]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_2/g0_b0__33_i_4_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_2/rk8[8]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_2/g0_b0__33_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[12]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[12]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_2/rk8[9]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_2/g0_b0__33_i_2_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_2/D[3]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_2/ciphertext[11]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[42]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[42]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[4]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[4]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[83]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[83]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_1/D[1]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_1/ciphertext[17]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[37]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[37]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[5]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[5]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[52]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[52]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[107]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[107]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[65]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[65]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_3/D[5]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_3/ciphertext[5]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_2/D[28]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_2/ciphertext[108]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[17]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[17]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_1/ciphertext[117]_i_5_n_0. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_1/ciphertext[117]_i_5_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_2/D[26]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_2/ciphertext[106]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_2/rk8[13]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_2/g0_b0__33_i_6_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[86]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[86]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[106]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[106]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[114]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[114]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[34]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[34]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[3]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[3]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[81]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[81]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[74]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[74]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_2/D[5]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_2/ciphertext[13]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[7]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[7]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[46]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[46]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[109]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[109]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[6]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[6]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_1/D[4]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_1/ciphertext[20]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_2/D[4]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_2/ciphertext[12]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[75]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[75]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_1/D[3]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_1/ciphertext[19]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[22]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[22]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[20]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[20]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[55]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[55]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_2/ciphertext[12]_i_5_n_0. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_2/ciphertext[12]_i_5_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[84]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[84]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[19]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[19]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[101]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[101]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_3/D[4]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_3/ciphertext[4]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[11]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[11]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[113]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[113]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[115]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[115]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_1/D[25]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_1/ciphertext[113]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_3/rk9[1]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_3/g0_b0__36_i_2_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[23]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[23]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[1]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[1]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_3/rk9[3]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_3/g0_b0__36_i_4_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_3/rk9[0]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_3/g0_b0__36_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_3/rk9[5]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_3/g0_b0__36_i_6_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_1/D[7]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_1/ciphertext[23]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[51]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[51]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[24]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[24]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[33]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[33]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[2]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[2]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_1/D[6]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_1/ciphertext[22]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/cu/D[100]. Critical path length was reduced through logic transformation on cell aes_inst/cu/state_reg[100]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_3/D[6]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_3/ciphertext[6]_i_1_comp.
+
+[Physopt 32-710] Processed net aes_inst/kex/sb1_3/rk9[4]. Critical path length was reduced through logic transformation on cell aes_inst/kex/sb1_3/g0_b0__36_i_5_comp.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 22 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 20 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 17 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 6 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 23 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 20 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 23 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 23 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 20 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 23 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 23 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 22 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 22 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 6 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 22 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 20 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 22 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 20 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 23 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 24 pins.
+
+[Physopt 32-608] Optimized 1 net.  Swapped 20 pins.
+
+[Physopt 32-663] Processed net aes_inst/kex/sb1_2/rk8[13].  Re-placed instance aes_inst/kex/sb1_2/g0_b0__33_i_6
+
+[Physopt 32-663] Processed net aes_inst/kex/sb10_3/sub10[1].  Re-placed instance aes_inst/kex/sb10_3/ciphertext[103]_i_13
+
+[Physopt 32-663] Processed net aes_inst/kex/sb10_2/sub10[0].  Re-placed instance aes_inst/kex/sb10_2/ciphertext[110]_i_18
+
+[Physopt 32-663] Processed net aes_inst/kex/sb1_0/g0_b0__31_i_6_28.  Re-placed instance aes_inst/kex/sb1_0/g3_b4__31
+
+[Physopt 32-663] Processed net aes_inst/kex/sb1_3/cipher_key_reg[110]_1.  Re-placed instance aes_inst/kex/sb1_3/ciphertext[14]_i_15
+
+[Physopt 32-663] Processed net aes_inst/kex/sb1_3/ciphertext[7]_i_5_n_0.  Re-placed instance aes_inst/kex/sb1_3/ciphertext[7]_i_5
+
+[Physopt 32-663] Processed net aes_inst/kex/sb1_1/g0_b0__36_i_27_n_0.  Re-placed instance aes_inst/kex/sb1_1/g0_b0__36_i_27
+
+[Physopt 32-663] Processed net aes_inst/kex/sb1_0/g0_b0__31_i_6_16.  Re-placed instance aes_inst/kex/sb1_0/g2_b0__31
+
+[Physopt 32-663] Processed net aes_inst/kex/sb1_0/cipher_key_reg[100]_0.  Re-placed instance aes_inst/kex/sb1_0/ciphertext[100]_i_9
+
+[Physopt 32-663] Processed net aes_inst/kex/sb1_3/g0_b0__32_i_6_29.  Re-placed instance aes_inst/kex/sb1_3/g3_b5__32
+
+[Physopt 32-663] Processed net aes_inst/kex/sb1_1/rk8[18].  Re-placed instance aes_inst/kex/sb1_1/g0_b0__34_i_3
+
+[Physopt 32-663] Processed net aes_inst/kex/sb1_3/g0_b0__32_i_6_21.  Re-placed instance aes_inst/kex/sb1_3/g2_b5__32
+
+[Common 17-14] Message 'Physopt 32-619' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+
+[Common 17-14] Message 'Physopt 32-735' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+
+[Physopt 32-603] Post Physical Optimization Timing Summary | WNS=-20.870 | TNS=-5263.934 |
+
+[Common 17-83] Releasing license: Implementation
+
+[Timing 38-480] Writing timing data to binary archive.
+
+[Common 17-1381] The checkpoint 'C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.runs/impl_1/uart_aes_top_physopt.dcp' has been generated.
+
+Route Design
+ Command: route_design
+
+ Attempting to get a license for feature 'Implementation' and/or device 'xc7a35ti'
+
+ Running DRC as a precondition to command route_design
+
+ 
+Starting Routing Task
+
+ 
+Phase 1 Build RT Design
+
+ Phase 1 Build RT Design | Checksum: a56a93cc
+
+ 
+Time (s): cpu = 00:00:17 ; elapsed = 00:00:15 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 2 Router Initialization
+
+ 
+Phase 2.1 Fix Topology Constraints
+
+ Phase 2.1 Fix Topology Constraints | Checksum: a56a93cc
+
+ 
+Time (s): cpu = 00:00:17 ; elapsed = 00:00:15 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 2.2 Pre Route Cleanup
+
+ Phase 2.2 Pre Route Cleanup | Checksum: a56a93cc
+
+ 
+Time (s): cpu = 00:00:17 ; elapsed = 00:00:15 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 2.3 Update Timing
+
+ Phase 2.3 Update Timing | Checksum: 1bc58f6f8
+
+ 
+Time (s): cpu = 00:00:19 ; elapsed = 00:00:17 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ Phase 2 Router Initialization | Checksum: ff5adc01
+
+ 
+Time (s): cpu = 00:00:20 ; elapsed = 00:00:17 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 3 Initial Routing
+
+ 
+Phase 3.1 Global Routing
+
+ Phase 3.1 Global Routing | Checksum: ff5adc01
+
+ 
+Time (s): cpu = 00:00:20 ; elapsed = 00:00:17 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ Phase 3 Initial Routing | Checksum: 1361c7fa3
+
+ 
+Time (s): cpu = 00:00:23 ; elapsed = 00:00:19 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 4 Rip-up And Reroute
+
+ 
+Phase 4.1 Global Iteration 0
+
+ Phase 4.1 Global Iteration 0 | Checksum: 11c8abcb3
+
+ 
+Time (s): cpu = 00:00:55 ; elapsed = 00:00:47 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 4.2 Global Iteration 1
+
+ Phase 4.2 Global Iteration 1 | Checksum: 1e897de18
+
+ 
+Time (s): cpu = 00:01:37 ; elapsed = 00:01:14 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 4.3 Global Iteration 2
+
+ Phase 4.3 Global Iteration 2 | Checksum: 15961aa3e
+
+ 
+Time (s): cpu = 00:02:09 ; elapsed = 00:01:34 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ Phase 4 Rip-up And Reroute | Checksum: 15961aa3e
+
+ 
+Time (s): cpu = 00:02:09 ; elapsed = 00:01:34 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 5 Delay and Skew Optimization
+
+ 
+Phase 5.1 Delay CleanUp
+
+ 
+Phase 5.1.1 Update Timing
+
+ Phase 5.1.1 Update Timing | Checksum: eb73ff5f
+
+ 
+Time (s): cpu = 00:02:09 ; elapsed = 00:01:34 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ Phase 5.1 Delay CleanUp | Checksum: 218a9a604
+
+ 
+Time (s): cpu = 00:02:13 ; elapsed = 00:01:36 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 5.2 Clock Skew Optimization
+
+ Phase 5.2 Clock Skew Optimization | Checksum: 218a9a604
+
+ 
+Time (s): cpu = 00:02:13 ; elapsed = 00:01:36 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ Phase 5 Delay and Skew Optimization | Checksum: 218a9a604
+
+ 
+Time (s): cpu = 00:02:13 ; elapsed = 00:01:36 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 6 Post Hold Fix
+
+ 
+Phase 6.1 Hold Fix Iter
+
+ 
+Phase 6.1.1 Update Timing
+
+ Phase 6.1.1 Update Timing | Checksum: 1c12f2a4d
+
+ 
+Time (s): cpu = 00:02:13 ; elapsed = 00:01:36 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ Phase 6.1 Hold Fix Iter | Checksum: 2521545d9
+
+ 
+Time (s): cpu = 00:02:13 ; elapsed = 00:01:36 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ Phase 6 Post Hold Fix | Checksum: 293d915bb
+
+ 
+Time (s): cpu = 00:02:13 ; elapsed = 00:01:36 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 7 Route finalize
+
+ Phase 7 Route finalize | Checksum: 1eb54bbc2
+
+ 
+Time (s): cpu = 00:02:13 ; elapsed = 00:01:36 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 8 Verifying routed nets
+
+ Phase 8 Verifying routed nets | Checksum: 1eb54bbc2
+
+ 
+Time (s): cpu = 00:02:13 ; elapsed = 00:01:36 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 9 Depositing Routes
+
+ Phase 9 Depositing Routes | Checksum: 1233cd93c
+
+ 
+Time (s): cpu = 00:02:14 ; elapsed = 00:01:37 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 10 Post Router Timing
+
+ 
+Phase 10.1 Update Timing
+
+ Phase 10.1 Update Timing | Checksum: 1cc3c42ef
+
+ 
+Time (s): cpu = 00:02:14 ; elapsed = 00:01:37 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ Phase 10 Post Router Timing | Checksum: 1cc3c42ef
+
+ 
+Time (s): cpu = 00:02:14 ; elapsed = 00:01:37 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Phase 11 Post-Route Event Processing
+
+ Phase 11 Post-Route Event Processing | Checksum: 14d6da4b2
+
+ 
+Time (s): cpu = 00:02:14 ; elapsed = 00:01:37 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 
+Time (s): cpu = 00:02:14 ; elapsed = 00:01:37 . Memory (MB): peak = 3035.125 ; gain = 80.770
+
+ 718 Infos, 12 Warnings, 10 Critical Warnings and 0 Errors encountered.
+
+ route_design completed successfully
+
+ Command: report_drc -file uart_aes_top_drc_routed.rpt -pb uart_aes_top_drc_routed.pb -rpx uart_aes_top_drc_routed.rpx
+
+ report_drc completed successfully
+
+ Command: report_methodology -file uart_aes_top_methodology_drc_routed.rpt -pb uart_aes_top_methodology_drc_routed.pb -rpx uart_aes_top_methodology_drc_routed.rpx
+
+ report_methodology completed successfully
+
+ Command: report_power -file uart_aes_top_power_routed.rpt -pb uart_aes_top_power_summary_routed.pb -rpx uart_aes_top_power_routed.rpx
+
+ Running Vector-less Activity Propagation...
+
+ 
+Finished Running Vector-less Activity Propagation
+
+ 728 Infos, 12 Warnings, 10 Critical Warnings and 0 Errors encountered.
+
+ report_power completed successfully
+
+ Writing XDEF routing.
+
+ Writing XDEF routing logical nets.
+
+ Writing XDEF routing special nets.
+
+[Common 17-349] Got license for feature 'Implementation' and/or device 'xc7a35ti'
+
+[DRC 23-27] Running DRC with 2 threads
+
+[DRC 23-27] Running DRC with 2 threads
+
+[DRC 23-27] Running DRC with 2 threads
+
+[Vivado_Tcl 4-198] DRC finished with 0 Errors
+
+[Vivado_Tcl 4-199] Please refer to the DRC report (report_drc) for more information.
+
+[Vivado_Tcl 4-199] Please refer to the DRC report (report_drc) for more information.
+
+[Route 35-254] Multithreading enabled for route_design using a maximum of 2 CPUs
+
+[Route 35-580] Design has 127 pins with tight setup and hold constraints.
+
+The top 5 pins with tight setup and hold constraints:
+
++====================+===================+===============================+
+| Launch Setup Clock | Launch Hold Clock | Pin                           |
++====================+===================+===============================+
+| clk                | sys_clk_pin       | aes_inst/state_reg_reg[127]/D |
+| clk                | sys_clk_pin       | aes_inst/state_reg_reg[68]/D  |
+| clk                | sys_clk_pin       | aes_inst/state_reg_reg[56]/D  |
+| clk                | sys_clk_pin       | aes_inst/state_reg_reg[110]/D |
+| clk                | sys_clk_pin       | aes_inst/state_reg_reg[21]/D  |
++--------------------+-------------------+-------------------------------+
+
+File with complete list of pins: tight_setup_hold_pins.txt
+
+
+[Route 35-416] Intermediate Timing Summary | WNS=-19.823| TNS=-4971.553| WHS=-0.904 | THS=-319.404|
+
+
+[Route 35-468] The router encountered 1 pins that are both setup-critical and hold-critical and tried to fix hold violations at the expense of setup slack. Such pins are:
+	aes_inst/cu/state_reg[46]_i_1_comp/I4
+
+
+[Route 35-57] Estimated Timing Summary | WNS=-24.034| TNS=-5976.986| WHS=0.050  | THS=0.000  |
+
+
+[Route 35-328] Router estimated timing not met.
+Resolution: For a complete and accurate timing signoff, report_timing_summary must be run after route_design. Alternatively, route_design can be run with the -timing_summary option to enable a complete timing signoff at the end of route_design.
+
+[Route 35-16] Router Completed Successfully
+
+[Common 17-83] Releasing license: Implementation
+
+[IP_Flow 19-1839] IP Catalog is up to date.
+
+[Vivado_Tcl 2-168] The results of DRC are in file "C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.runs/impl_1/uart_aes_top_drc_routed.rpt".
+
+[runtcl-6] Executing : report_drc -file uart_aes_top_drc_routed.rpt -pb uart_aes_top_drc_routed.pb -rpx uart_aes_top_drc_routed.rpx
+
+[runtcl-6] Executing : report_methodology -file uart_aes_top_methodology_drc_routed.rpt -pb uart_aes_top_methodology_drc_routed.pb -rpx uart_aes_top_methodology_drc_routed.rpx
+
+[runtcl-6] Executing : report_power -file uart_aes_top_power_routed.rpt -pb uart_aes_top_power_summary_routed.pb -rpx uart_aes_top_power_routed.rpx
+
+[runtcl-6] Executing : report_route_status -file uart_aes_top_route_status.rpt -pb uart_aes_top_route_status.pb
+
+[runtcl-6] Executing : report_timing_summary -max_paths 10 -report_unconstrained -file uart_aes_top_timing_summary_routed.rpt -pb uart_aes_top_timing_summary_routed.pb -rpx uart_aes_top_timing_summary_routed.rpx -warn_on_violation 
+
+[runtcl-6] Executing : report_incremental_reuse -file uart_aes_top_incremental_reuse_routed.rpt
+
+[runtcl-6] Executing : report_clock_utilization -file uart_aes_top_clock_utilization_routed.rpt
+
+[runtcl-6] Executing : report_bus_skew -warn_on_violation -file uart_aes_top_bus_skew_routed.rpt -pb uart_aes_top_bus_skew_routed.pb -rpx uart_aes_top_bus_skew_routed.rpx
+
+[DRC 23-133] Running Methodology with 2 threads
+
+[Vivado_Tcl 2-1520] The results of Report Methodology are in file "C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.runs/impl_1/uart_aes_top_methodology_drc_routed.rpt".
+
+[Timing 38-35] Done setting XDC timing constraints.
+
+[Timing 38-35] Done setting XDC timing constraints.
+
+[Timing 38-282] The design failed to meet the timing requirements. Please see the timing summary report for details on the timing violations.
+
+[Vivado_Tcl 4-1062] Incremental flow is disabled. No incremental reuse Info to report.
+
+[Timing 38-91] UpdateTimingParams: Speed grade: -1L, Delay Type: min_max.
+
+[Timing 38-91] UpdateTimingParams: Speed grade: -1L, Delay Type: min_max.
+
+[Timing 38-191] Multithreading enabled for timing update using a maximum of 2 CPUs
+
+[Timing 38-191] Multithreading enabled for timing update using a maximum of 2 CPUs
+
+[Timing 38-480] Writing timing data to binary archive.
+
+[Common 17-1381] The checkpoint 'C:/Users/USER/OneDrive/Desktop/AES-DSD-PROJECT/AES-DSD-PROJECT.runs/impl_1/uart_aes_top_routed.dcp' has been generated.
+
+Write Bitstream
+ Command: open_checkpoint uart_aes_top_routed.dcp
+
+[Device 21-403] Loading part xc7a35ticpg236-1L
+
+[Netlist 29-17] Analyzing 1096 Unisim elements for replacement
+
+[Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+
+[Project 1-479] Netlist was created with Vivado 2023.1
+
+[Project 1-570] Preparing netlist for logic optimization
+
+[Timing 38-478] Restoring timing data from binary archive.
+
+[Timing 38-479] Binary timing data restore complete.
+
+[Project 1-856] Restoring constraints from binary archive.
+
+[Project 1-853] Binary constraint restore complete.
+
+[Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+
+[Project 1-604] Checkpoint was created with Vivado v2023.1 (64-bit) build 3865809
+
+[Vivado 12-23575] Critical violations of the methodology design rules detected. Critical violations may contribute to timing failures or cause functional issues in hardware. Run report_methodology for more information.
+
+[Common 17-349] Got license for feature 'Implementation' and/or device 'xc7a35ti'
+
+[IP_Flow 19-234] Refreshing IP repositories
+
+[IP_Flow 19-1704] No user IP repositories specified
+
+[IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2023.1/data/ip'.
+
+[DRC 23-27] Running DRC with 2 threads
+
+[Vivado 12-3199] DRC finished with 0 Errors
+
+[Vivado 12-3200] Please refer to the DRC report (report_drc) for more information.
+
+[Designutils 20-2272] Running write_bitstream with 2 threads.
+
+[Vivado 12-1842] Bitgen Completed Successfully.
+
+[Project 1-1876] WebTalk data collection is mandatory when using a ULT device. To see the specific WebTalk data collected for your design, open the usage_statistics_webtalk.html or usage_statistics_webtalk.xml file in the implementation directory.
+
+[Common 17-83] Releasing license: Implementation
+
+Simulation
+sim_1
+ Vivado Simulator v2023.1
+
+[XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
